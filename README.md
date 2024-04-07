@@ -26,10 +26,6 @@ If you want to import a collection of bookmarks, like the Hacker's Bookmark Coll
 
 5. **Confirm Import**: After selecting the file, confirm the import action. Your browser will then start the import process.
 
-6. **Check Your Bookmarks**: Once the import is complete, check your bookmarks to make sure they've been successfully imported. You should now see your new bookmarks listed in your browser.
-
-7. **Organize (Optional)**: Depending on your browser, you may want to organize your newly imported bookmarks into folders for easier navigation. You can usually do this within the bookmarks manager.
-
 That's it! You've successfully imported your Hacker's Bookmark Collection into your browser, making it convenient to access all your favorite resources whenever you need them.
 
 # Feedback and Support
