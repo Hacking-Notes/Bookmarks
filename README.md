@@ -1,3 +1,6 @@
+
+![create-a-chrome-extension-icon-with-a-hacking-evil-icon-inside-895548428 (1)](https://github.com/Hacking-Notes/Bookmarks/assets/118412415/5f06eacb-b44f-4011-9e2e-acd0b59f4255)
+
 # Hacker's Bookmark Collection
 
 Welcome to my Hacker's Bookmark Collection! This curated set of bookmarks is a treasure trove of resources specifically tailored for hackers, security enthusiasts, and cybersecurity professionals. Whether you're a seasoned hacker or just starting your journey into the world of cybersecurity, you'll find an array of bookmarks here to aid in your exploration and learning.
@@ -25,6 +28,7 @@ If you want to import a collection of bookmarks, like the Hacker's Bookmark Coll
 4. **Choose the File**: A window will pop up asking you to select the file containing your bookmarks. Find the file with your bookmarks and select it.
 
 5. **Confirm Import**: After selecting the file, confirm the import action. Your browser will then start the import process.
+
 
 That's it! You've successfully imported your Hacker's Bookmark Collection into your browser, making it convenient to access all your favorite resources whenever you need them.
 
