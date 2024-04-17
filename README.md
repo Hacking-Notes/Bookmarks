@@ -36,4 +36,4 @@ That's it! You've successfully imported your Hacker's Bookmark Collection into y
 
 If you have any suggestions for additional resources or encounter any issues with the bookmarks in this collection, feel free to reach out via Discord.
 
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-model.com%2Fimg%2Flogo-discord.png&f=1&nofb=1&ipt=0b347aa70a05f91f4015e7e1049581eba2f397f35b8f27ebb18ae2190210f8ea&ipo=images)ㅤContact Me: Discord --> LXC#3100
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-model.com%2Fimg%2Flogo-discord.png&f=1&nofb=1&ipt=0b347aa70a05f91f4015e7e1049581eba2f397f35b8f27ebb18ae2190210f8ea&ipo=images)ㅤContact Me: Discord --> HackingNotes
