@@ -31,11 +31,3 @@ If you want to import a collection of bookmarks, like the Hacker's Bookmark Coll
 
 
 That's it! You've successfully imported your Hacker's Bookmark Collection into your browser, making it convenient to access all your favorite resources whenever you need them.
-
-# Feedback and Support
-
-If you have any suggestions for additional resources or encounter any issues with the bookmarks in this collection, feel free to reach out via Discord.
-
-  <a href="https://discord.com">
-  <img width="300" src="https://github.com/Hacking-Notes/Hacking-Notes/assets/118412415/5f34c47e-8f9e-40ef-885d-91ee9a6c5989" alt="gif">
-  </a>
