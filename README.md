@@ -1,3 +1,11 @@
+<div align="center">
+
+<kbd>&nbsp;BOOKMARKS&nbsp;</kbd> &nbsp; <kbd>&nbsp;RESOURCES&nbsp;</kbd> &nbsp; <kbd>&nbsp;TOOLKIT&nbsp;</kbd> &nbsp; 
+
+[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+
+</div>
+
 
 ![create-a-chrome-extension-icon-with-a-hacking-evil-icon-inside-895548428 (1)](https://github.com/Hacking-Notes/Bookmarks/assets/118412415/5f06eacb-b44f-4011-9e2e-acd0b59f4255)
 
@@ -31,3 +39,18 @@ If you want to import a collection of bookmarks, like the Hacker's Bookmark Coll
 
 
 That's it! You've successfully imported your Hacker's Bookmark Collection into your browser, making it convenient to access all your favorite resources whenever you need them.
+
+<br>
+
+<div align="center">
+
+### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
+
+[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
+[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
+[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
+
+<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+
+</div>
