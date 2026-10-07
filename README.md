@@ -1,15 +1,19 @@
+<a name="top"></a>
+
 <div align="center">
 
-<kbd>&nbsp;BOOKMARKS&nbsp;</kbd> &nbsp; <kbd>&nbsp;RESOURCES&nbsp;</kbd> &nbsp; <kbd>&nbsp;TOOLKIT&nbsp;</kbd> &nbsp; 
+<img src="assets/header.svg" alt="Hacker Bookmarks" width="100%" />
 
-[![Website](https://img.shields.io/badge/WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
+<br />
+
+<a href="https://github.com/Hacking-Notes/Bookmarks/stargazers"><img src="https://img.shields.io/github/stars/Hacking-Notes/Bookmarks?style=for-the-badge&logo=github&logoColor=1f2328&label=Stars&labelColor=f6f8fa&color=059669" alt="Stars" /></a>
+<a href="https://github.com/Hacking-Notes/Bookmarks/network/members"><img src="https://img.shields.io/github/forks/Hacking-Notes/Bookmarks?style=for-the-badge&logo=git&logoColor=1f2328&label=Forks&labelColor=f6f8fa&color=0284c7" alt="Forks" /></a>
+<a href="https://github.com/Hacking-Notes/Bookmarks/commits"><img src="https://img.shields.io/github/last-commit/Hacking-Notes/Bookmarks?style=for-the-badge&label=Updated&labelColor=f6f8fa&color=7c3aed" alt="Last commit" /></a>
+<a href="https://hacking-notes.com"><img src="https://img.shields.io/badge/More-hacking--notes.com-db2777?style=for-the-badge&labelColor=f6f8fa" alt="hacking-notes.com" /></a>
 
 </div>
 
-
-![create-a-chrome-extension-icon-with-a-hacking-evil-icon-inside-895548428 (1)](https://github.com/Hacking-Notes/Bookmarks/assets/118412415/5f06eacb-b44f-4011-9e2e-acd0b59f4255)
-
-# Hacker's Bookmark Collection
+<br />
 
 Welcome to my Hacker's Bookmark Collection! This curated set of bookmarks is a treasure trove of resources specifically tailored for hackers, security enthusiasts, and cybersecurity professionals. Whether you're a seasoned hacker or just starting your journey into the world of cybersecurity, you'll find an array of bookmarks here to aid in your exploration and learning.
 
@@ -20,6 +24,9 @@ Within this collection, you'll discover a comprehensive selection of bookmarks c
 - Tools & Exploits
 - Tutorials & Guides
 - Security Blogs & Forums
+
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 ## Importing Bookmarks into Your Browser
 
@@ -40,17 +47,24 @@ If you want to import a collection of bookmarks, like the Hacker's Bookmark Coll
 
 That's it! You've successfully imported your Hacker's Bookmark Collection into your browser, making it convenient to access all your favorite resources whenever you need them.
 
-<br>
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## 🧰 Hacking Notes Ecosystem
 
 <div align="center">
 
-### ───────────────  HACKING NOTES ECOSYSTEM  ───────────────
-
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-hacking--notes.com-ff3333?style=flat-square&labelColor=000000)](https://hacking-notes.com)
-[![Roadmap](https://img.shields.io/badge/🗺_ROADMAP-Hacker--Roadmap-f5f5f5?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/Hacker-Roadmap)
-[![RedTeam](https://img.shields.io/badge/🔴_RED_TEAM-notes-ff3333?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/RedTeam)
-[![BlueTeam](https://img.shields.io/badge/🔵_BLUE_TEAM-notes-3388ff?style=flat-square&labelColor=000000)](https://github.com/Hacking-Notes/BlueTeam)
-
-<sub><code>// part of the Hacking Notes toolkit — hacking-notes.com</code></sub>
+🌐 &nbsp;**[hacking-notes.com](https://hacking-notes.com)** &nbsp;·&nbsp; ✍️ &nbsp;**[blog](https://hacking-notes.medium.com/)** &nbsp;·&nbsp; 💬 &nbsp;**[discord](https://discord.gg/r68ameNHrD)**
 
 </div>
+
+| | Resource | What you get |
+| :-: | -------- | ------------ |
+| 🗺 | **[Hacker-Roadmap](https://github.com/Hacking-Notes/Hacker-Roadmap)** | Structured paths from beginner to pro — hobbyist, bug bounty, certs & degree. |
+| 🔴 | **[RedTeam Notes](https://github.com/Hacking-Notes/RedTeam)** | Offensive security notes: recon, exploitation, Windows & Linux. |
+| 🔷 | **[BlueTeam Notes](https://github.com/Hacking-Notes/BlueTeam)** | Defensive security notes: forensics, malware, log & packet analysis. |
+| 🧩 | **[Extensions](https://github.com/Hacking-Notes/Extensions)** | Curated Chrome extensions for ethical hacking & recon. |
+| 🔖 | **[Bookmarks](https://github.com/Hacking-Notes/Bookmarks)** | Curated hacker bookmark collection, one import away. |
+
+<img src="assets/footer.svg" width="100%" alt="" />
+
+<div align="right"><a href="#top">⬆ back to top</a></div>
